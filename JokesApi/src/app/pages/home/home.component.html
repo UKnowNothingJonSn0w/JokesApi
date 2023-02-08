@@ -1,0 +1,9 @@
+<div class="container"*ngIf="!isLoading">
+    <div class="category" >
+       Kategoria: {{ randomValue.category }}
+    </div>
+    <div class="content">
+        {{ randomValue.content }}
+        </div>
+</div>
+<button class="next" (click)="next()">Następny</button>

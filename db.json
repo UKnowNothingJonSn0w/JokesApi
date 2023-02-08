@@ -1,0 +1,101 @@
+{
+  "jokes": [
+    {
+      "id": "1",
+      "category": "O programistach",
+      "content": "Spotyka się dwóch programistów: - Słyszałem, że straciłeś pracę. Jak to jest być bezrobotnym? - To było najgorsze pół godziny mojego życia!"
+    },
+    {
+      "id": "2",
+      "category": "O programistach",
+      "content": "Doktorze, każdej nocy śni mi się jeden i ten sam koszmar. Jestem na Antarktydzie a wokół pełno pingwinów. I ciągle przybywają i przybywają. Zbliżają się do mnie, napierają na mnie, popychają mnie do urwiska i za każdym razem spychają mnie do lodowatej wody. - Normalnie leczymy takie przypadki w jeden dzień. Ale z Panem możemy mieć większe problemy, Panie Gates..."
+    },
+    {
+      "id": "3",
+      "category": "O programistach",
+      "content": "Jadą samochodem 3 koledzy i jeden z nich był programistą. Samochód się psuje, pasażerowie siedzą w środku i dywagują: świece, rozrusznik, benzyna, skończył się olej... Nagle programista mówi: a może wyjdźmy z samochodu poczekajmy chwilę i potem wejdźmy :)"
+    },
+    {
+      "id": "4",
+      "category": "O programistach",
+      "content": "Dlaczego programiści mylą Boże Narodzenie z Halloween ? Bo 25 Dec = 31 Oct"
+    },
+    {
+      "id": "5",
+      "category": "O programistach",
+      "content": "Jak śni programista? - Na JAVIE."
+    },
+    {
+      "id": "6",
+      "category": "O Jasiu",
+      "content": "Jaki jest największy las Na świecie ? - Jasiu odpowiada Las Vegas"
+    },
+    {
+      "id": "7",
+      "category": "O Jasiu",
+      "content": "Idzie Jasiu do szkoły i nagle zatrzymuje jadący samochód. Proszę nich Pan podwiezie mnie do szkoły. Ale chłopcze ja jadę w innym kierunku. Tym lepiej. Odpowiada Jaś."
+    },
+    {
+      "id": "8",
+      "category": "O Jasiu",
+      "content": "Jasiu idzie z mamą na spacer. Przechodzą przez ZOO. Jasiu widzi jak paw rozkłada swoje pióra. -Mamo! Mamo! Kwitnąca kura!"
+    },
+    {
+      "id": "9",
+      "category": "O Jasiu",
+      "content": "- Jasiu! Umyj ręce przed wyjściem do szkoły! - Dlaczego? Przecież nie będę się zgłaszać!"
+    },
+    {
+      "id": "10",
+      "category": "O strażakach",
+      "content": "Co robi strażak w czasie strajku? - Olewa pożar."
+    },
+    {
+      "id": "11",
+      "category": "O strażakach",
+      "content": "Po powrocie z akcji gaszenia pożaru , Komendant pisze raport: \"Zgasiliśmy pożar w oborze. Nie spłonęła żadna krowa, utonęło dziesięć.\""
+    },
+    {
+      "id": "12",
+      "category": "Czarny humor",
+      "content": "Żona prosiła mnie, żebym jej przyniósł szminkę. Przez pomyłkę podałem jej klej w sztyfcie. Chyba ciągle jest obrażona, bo nadal się nie odzywa"
+    },
+    {
+      "id": "13",
+      "category": "Czarny humor",
+      "content": "Wczoraj śmialiśmy się z dziadkiem do utraty tchu. Dziadek wygrał."
+    },
+    {
+      "id": "14",
+      "category": "Czarny humor",
+      "content": "Nastał okres zmian w moim życiu. Od wczoraj nie jestem już prawiczkiem, ani pracownikiem kostnicy."
+    }
+  ],
+  "categories": [
+    {
+      "id": "01",
+      "code": "IT",
+      "name": "O programistach"
+    },
+    {
+      "id": "02",
+      "code": "ABOUT_JOHNY",
+      "name": "O Jasiu"
+    },
+    {
+      "id": "03",
+      "code": "ABOUT_FIREFIGHTERS",
+      "name": "O strażakach"
+    },
+    {
+      "id": "04",
+      "code": "ABOUT_BLONDES",
+      "name": "O blondynkach"
+    },
+    {
+      "id": "05",
+      "code": "ABOUT_BLACK_HUMOR",
+      "name": "Czarny humor"
+    }
+  ]
+}

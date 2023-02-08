@@ -1,0 +1,37 @@
+.header{
+    background-color: #ffcc66;
+    height: 50px;
+    color: #fff;
+    padding: 10px 10px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-around;
+}
+.header a{
+    text-decoration: none;
+    color: #fff;
+}
+button{
+    background-color: transparent;
+    border: transparent;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+.header button a{
+    text-decoration: none;
+    color: #fff;
+}
+.container{
+    border: 2px solid rgba(0,0,0,0.18);
+border-radius: 37px;
+width: 50%;
+padding: 20px 20px 20px 20px;
+margin-top: 20%;
+}
+.content{
+    margin-top: 20px;
+}
