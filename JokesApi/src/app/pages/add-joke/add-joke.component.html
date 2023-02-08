@@ -1,0 +1,28 @@
+    <div class="col-8 form-div">
+    <div class="row" *ngIf="!isloading">
+        <div class="col-lg-8 col-sm-10 form-div">
+           <form method="POST" [formGroup]="addJokeForm" (ngSubmit)="addJoke()">
+            <div class="category">
+                <div class="select-category">
+                    <span class="input-group-text">Kategoria</span>
+                </div>
+                <select name="group" class="custom-select" formControlName="category" style="width: 300px;">
+                   <option *ngFor="let category of categories"
+                            >{{ category.name }}</option>
+                </select>
+            </div>
+            <div class="content">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">Treść</span>
+                </div>
+                <input type="text" class="form-control" formControlName="content">
+            </div>
+            <div class="add">
+                <button class="add-button" id="add_joke_button">
+                    Add Joke
+                </button>
+            </div>
+       </form>
+       </div>
+    </div>
+    </div>
