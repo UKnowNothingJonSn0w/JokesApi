@@ -3,6 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { PagesComponent } from '../pages/pages.component';
 import { HomeComponent } from './home/home.component';
 import { AddJokeComponent } from './add-joke/add-joke.component';
+import { AllJokesComponent } from './all-jokes/all-jokes.component';
 
 
 const routes: Routes = [
@@ -13,6 +14,7 @@ const routes: Routes = [
       { path: '', redirectTo: '/home', pathMatch: 'full' },
       { path: 'home', component: HomeComponent },
       { path: 'add-joke', component: AddJokeComponent },
+      { path: 'all-jokes', component: AllJokesComponent },
 
     ],
   },
