@@ -9,6 +9,7 @@ import { AddJokeComponent } from './add-joke/add-joke.component';
 import { PagesService } from '../pages/pages.service';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import {NgSelectModule} from "@ng-select/ng-select";
+import { AllJokesComponent } from './all-jokes/all-jokes.component';
 
 
 @NgModule({
@@ -16,6 +17,7 @@ import {NgSelectModule} from "@ng-select/ng-select";
     PagesComponent,
     HomeComponent,
     AddJokeComponent,
+    AllJokesComponent,
   ],
 
   imports: [
